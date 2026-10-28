@@ -1,0 +1,15 @@
+ILLUSTRATIVE LOCAL TEST OUTPUT — NOT A REAL GITHUB ACTIONS LOG
+
+Command:
+python -m unittest discover -s tests -v
+
+test_add_negative_numbers (test_math.TestMath.test_add_negative_numbers) ... ok
+test_add_two_numbers (test_math.TestMath.test_add_two_numbers) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+
+A real GitHub Actions log will include GitHub runner setup and step output. Get it from:
+Repository → Actions → Python CI → select run → select the test job → download/view logs.
